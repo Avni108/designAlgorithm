@@ -1,2 +1,2 @@
-# designAlgorithm
-this is where I have written an algorithm to detect collision
+# p5.play-boilerplate
+Boiler plate for p5.play
